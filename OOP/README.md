@@ -7,3 +7,4 @@
    * Protected variable is written with one underscore _ before the variable name.
    * Private variable is written with double underscore __ before the variable name.
 * Abstraction is the concept of hiding complex implementation details and showing only necessary feature of an object.
+*
