@@ -7,4 +7,10 @@
    * Protected variable is written with one underscore _ before the variable name.
    * Private variable is written with double underscore __ before the variable name.
 * Abstraction is the concept of hiding complex implementation details and showing only necessary feature of an object.
-*
+* Some importatnt methods :
+  * __init__ : Initializes a new instance of a class.
+  * __str__ : Returns a string representation of an Object.
+  * __repr__ : Returns a official string representation of an Object.
+  * __len__ : Returns the lenght of an Object.
+  * __getitem__ : Gets an item from a container.
+  * __setitem__ : Sets an item in a container.
